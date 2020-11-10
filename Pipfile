@@ -11,6 +11,7 @@ numpy = "*"
 jupyter = "*"
 matplotlib = "*"
 pandas = "*"
+plotly = "*"
 
 [requires]
 python_version = "3.6"
